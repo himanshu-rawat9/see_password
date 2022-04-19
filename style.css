@@ -1,0 +1,25 @@
+.main_box{
+    width: max-content;
+    margin: 0 auto;
+}
+
+input{
+    height: 1rem;
+    width: 12rem;
+    padding: 0.2rem;
+    font-size: 1rem;
+}
+
+button{
+    height: 1.67rem;
+    position: relative;
+    bottom: 0.04rem;
+    background-color: rgb(94, 95, 95);
+    border-style: hidden;
+    border-radius: 6px;
+    color: white;
+}
+
+.pressed{
+    background-color: rgb(39, 39, 39);
+}
